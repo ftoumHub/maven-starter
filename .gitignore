@@ -1,0 +1,77 @@
+Skip to content
+Why GitHub?
+Team
+Enterprise
+Explore
+Marketplace
+Pricing
+Search
+Sign in
+Sign up
+spring-guides
+/
+gs-maven
+Public
+117469
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Security
+Insights
+gs-maven/.gitignore
+@gregturn
+gregturn Convert to asciidoctor
+Latest commit ff5d73a on 25 Nov 2013
+ History
+ 2 contributors
+@royclarkson@gregturn
+32 lines (24 sloc)  269 Bytes
+
+ Operating System Files
+
+*.DS_Store
+Thumbs.db
+*.sw?
+.#*
+*#
+*~
+*.sublime-*
+
+# Build Artifacts
+
+.gradle/
+build/
+target/
+bin/
+dependency-reduced-pom.xml
+
+# Eclipse Project Files
+
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA Files
+
+*.iml
+*.ipr
+*.iws
+*.idea
+
+README.html
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
