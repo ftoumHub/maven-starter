@@ -1,1 +1,0 @@
-D'après https://github.com/spring-guides/gs-maven
